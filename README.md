@@ -1,4 +1,4 @@
-# My__About
+# My__About__Datails
 
 ** I am currently a student. I am studying computer technology at Brahmanbaria Polytechnic Institute. 
 Programming is my favorite hobby and everything new in programming attract me always. I am always 
